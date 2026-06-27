@@ -1,0 +1,23 @@
+{
+  "name": "project-cypress",
+  "version": "1.0.0",
+  "description": "This repository contains automated end-to-end test cases built with **Cypress**, \r created as part of my QA Engineer learning journey and portfolio.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjxrm/Cypress_QA_Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjxrm/Cypress_QA_Portfolio/issues"
+  },
+  "homepage": "https://github.com/sjxrm/Cypress_QA_Portfolio#readme",
+  "devDependencies": {
+    "cypress": "^15.18.0"
+  }
+}
